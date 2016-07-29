@@ -1,2 +1,3 @@
 # Graphics_Engine
-A place to test graphics
+Currently just a place to test graphics and one be able to render 3D objectics to create cool visuals
+
